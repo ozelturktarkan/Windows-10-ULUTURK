@@ -1,0 +1,18 @@
+﻿MyDock 5.10.1 Türkçe dil paketi
+
+English.ini, Chinese.ini ve Turkish.ini dosyalarındaki arayüz metinleri aynıdır
+ve Türkçedir. Yalnızca [language] bölümündeki name değerleri farklıdır:
+English / 简体中文 / Türkçe. Çince varsayılan seçilse de metinler Türkçe okunur.
+
+Kurulum: Dock'u kapatın. Paketteki üç INI dosyasını mevcut dosyaların üzerine
+yazacak şekilde dock'un lang klasörüne kopyalayın, sonra Dock'u yeniden açın.
+ULUTÜRK'te klasör: %LOCALAPPDATA%\ULUTURK\MyDock\lang
+
+Dil dosyalarını silmek yerine üzerine yazın. Paket DLL veya EXE içermez.
+İlk eklenen 44 girdiye, yalnız Çince kaynakta bulunan 2 uyarı da eklendi.
+Kaynak dillerdeki gerekli 422 girdinin tamamı bulunur; kullanıcı çevirisi korunur.
+Üç dosya da UTF-16 LE BOM ve CRLF biçimindedir; Windows INI okuyucusuyla doğrulandı.
+
+Uc dil dosyasi YAYIN klasorundeki son ISO'ya eklendi; ozetler YAYIN/HASHES.txt icindedir.
+Mevcut ADAY-r1 ISO'su bu değişiklik için yeniden oluşturulmadı.
+Üç dil seçeneğinin canlı uygulamadaki görünümü henüz denenmedi.

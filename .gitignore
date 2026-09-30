@@ -1,0 +1,17 @@
+*.iso
+*.wim
+*.esd
+*.swm
+*.vdi
+*.vhd
+*.vhdx
+*.log
+*.evtx
+*.exe
+*.dll
+*.ttf
+*.png
+settings.xml
+license.dat
+__pycache__/
+.venv/

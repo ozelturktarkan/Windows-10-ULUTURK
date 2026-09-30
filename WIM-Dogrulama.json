@@ -1,0 +1,221 @@
+{
+  "single_pro_x64": true,
+  "version": {
+    "CurrentBuildNumber": "19045",
+    "EditionID": "Professional",
+    "ReleaseId": "2009",
+    "UBR": 2965,
+    "DisplayVersion": "22H2"
+  },
+  "file_checks": {
+    "/Windows/explorer.exe": true,
+    "/Windows/System32/mspaint.exe": true,
+    "/Windows/System32/WindowsPowerShell/v1.0/powershell.exe": true,
+    "/Windows/System32/msiexec.exe": true,
+    "/Windows/System32/dism.exe": true,
+    "/Windows/System32/SearchIndexer.exe": true,
+    "/Windows/System32/wuaueng.dll": true,
+    "/Windows/System32/mpssvc.dll": true,
+    "/Windows/System32/AppxDeploymentServer.dll": true,
+    "Search_app": true,
+    "Edge_browser": true,
+    "Audio_service_binary": true,
+    "Audio_endpoint_binary": true,
+    "HDA_bus_driver": true,
+    "HDA_driver": true,
+    "Defender_removed": true
+  },
+  "protected_applications": {
+    "microsoft.windowsstore": true,
+    "microsoft.storepurchaseapp": true,
+    "microsoft.xboxidentityprovider": true,
+    "microsoft.windowscalculator": true,
+    "microsoft.windows.photos": true,
+    "microsoft.windowssoundrecorder": true,
+    "microsoft.desktopappinstaller": true
+  },
+  "retained_application_records_unchanged": {
+    "Microsoft.549981C3F5F10_1.1911.21713.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.DesktopAppInstaller_2019.125.2243.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.HEIFImageExtension_1.0.22742.0_x64__8wekyb3d8bbwe": true,
+    "Microsoft.People_2019.305.632.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.ScreenSketch_2019.904.1644.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.StorePurchaseApp_11811.1001.1813.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.VCLibs.140.00_14.0.27323.0_x64__8wekyb3d8bbwe": true,
+    "Microsoft.VP9VideoExtensions_1.0.22681.0_x64__8wekyb3d8bbwe": true,
+    "Microsoft.Wallet_2.4.18324.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.WebMediaExtensions_1.0.20875.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.WebpImageExtension_1.0.22753.0_x64__8wekyb3d8bbwe": true,
+    "Microsoft.Windows.Photos_2019.19071.12548.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.WindowsAlarms_2019.807.41.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.WindowsCalculator_2020.1906.55.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.WindowsCamera_2018.826.98.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.WindowsSoundRecorder_2019.716.2313.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.WindowsStore_11910.1002.513.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.Xbox.TCUI_1.23.28002.0_neutral_~_8wekyb3d8bbwe": true,
+    "Microsoft.XboxIdentityProvider_12.50.6001.0_neutral_~_8wekyb3d8bbwe": true
+  },
+  "framework_staging_unchanged": {
+    "Microsoft.Advertising.Xaml_8wekyb3d8bbwe": true,
+    "Microsoft.NET.Native.Framework.1.7_8wekyb3d8bbwe": true,
+    "Microsoft.NET.Native.Framework.2.2_8wekyb3d8bbwe": true,
+    "Microsoft.NET.Native.Runtime.1.7_8wekyb3d8bbwe": true,
+    "Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe": true,
+    "Microsoft.UI.Xaml.2.0_8wekyb3d8bbwe": true,
+    "Microsoft.VCLibs.140.00.UWPDesktop_8wekyb3d8bbwe": true,
+    "Microsoft.VCLibs.140.00_8wekyb3d8bbwe": true
+  },
+  "required_framework_staging_unchanged": {
+    "Microsoft.NET.Native.Framework.2.2_2.2.27405.0_x64__8wekyb3d8bbwe": true,
+    "Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe": true,
+    "Microsoft.VCLibs.140.00.UWPDesktop_14.0.27629.0_x64__8wekyb3d8bbwe": true,
+    "Microsoft.VCLibs.140.00_14.0.27323.0_x64__8wekyb3d8bbwe": true,
+    "Microsoft.NET.Native.Framework.1.7_1.7.25531.0_x64__8wekyb3d8bbwe": true,
+    "Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x64__8wekyb3d8bbwe": true,
+    "Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe": true
+  },
+  "retained_app_and_dependency_manifests_present": {
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.549981C3F5F10_1.1911.21713.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_2019.125.2243.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.HEIFImageExtension_1.0.22742.0_x64__8wekyb3d8bbwe\\AppxManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.NET.Native.Framework.1.7_1.7.25531.0_x64__8wekyb3d8bbwe\\AppxManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.NET.Native.Framework.2.2_2.2.27405.0_x64__8wekyb3d8bbwe\\AppxManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x64__8wekyb3d8bbwe\\AppxManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe\\AppxManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.People_2019.305.632.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.ScreenSketch_2019.904.1644.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.StorePurchaseApp_11811.1001.1813.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe\\AppxManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.VCLibs.140.00.UWPDesktop_14.0.27629.0_x64__8wekyb3d8bbwe\\AppxManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.VCLibs.140.00_14.0.27323.0_x64__8wekyb3d8bbwe\\AppxManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.VP9VideoExtensions_1.0.22681.0_x64__8wekyb3d8bbwe\\AppxManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.Wallet_2.4.18324.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.WebMediaExtensions_1.0.20875.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.WebpImageExtension_1.0.22753.0_x64__8wekyb3d8bbwe\\AppxManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.Windows.Photos_2019.19071.12548.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.WindowsAlarms_2019.807.41.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_2020.1906.55.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.WindowsCamera_2018.826.98.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.WindowsSoundRecorder_2019.716.2313.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.WindowsStore_11910.1002.513.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.Xbox.TCUI_1.23.28002.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true,
+    "%SYSTEMDRIVE%\\Program Files\\WindowsApps\\Microsoft.XboxIdentityProvider_12.50.6001.0_neutral_~_8wekyb3d8bbwe\\AppxMetadata\\AppxBundleManifest.xml": true
+  },
+  "service_start_values_before_setup": {
+    "WSearch": {
+      "before": 2,
+      "after": 2,
+      "unchanged": true
+    },
+    "wuauserv": {
+      "before": 3,
+      "after": 3,
+      "unchanged": true
+    },
+    "BITS": {
+      "before": 3,
+      "after": 3,
+      "unchanged": true
+    },
+    "TrustedInstaller": {
+      "before": 2,
+      "after": 2,
+      "unchanged": true
+    },
+    "MpsSvc": {
+      "before": 2,
+      "after": 2,
+      "unchanged": true
+    },
+    "BFE": {
+      "before": 2,
+      "after": 2,
+      "unchanged": true
+    },
+    "AppXSvc": {
+      "before": 3,
+      "after": 3,
+      "unchanged": true
+    },
+    "ClipSVC": {
+      "before": 3,
+      "after": 3,
+      "unchanged": true
+    },
+    "LicenseManager": {
+      "before": 3,
+      "after": 3,
+      "unchanged": true
+    },
+    "InstallService": {
+      "before": 3,
+      "after": 3,
+      "unchanged": true
+    },
+    "Audiosrv": {
+      "before": 2,
+      "after": 2,
+      "unchanged": true
+    },
+    "AudioEndpointBuilder": {
+      "before": 2,
+      "after": 2,
+      "unchanged": true
+    },
+    "TokenBroker": {
+      "before": 3,
+      "after": 3,
+      "unchanged": true
+    },
+    "vmms": {
+      "before": null,
+      "after": null,
+      "unchanged": true
+    },
+    "SysMain": {
+      "before": 2,
+      "after": 2,
+      "unchanged": true
+    }
+  },
+  "removed_applications": [
+    "Microsoft.BingWeather_4.25.20211.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.GetHelp_10.1706.13331.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.Getstarted_8.2.22942.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.MSPaint_2019.729.2301.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.Microsoft3DViewer_6.1908.2042.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.MicrosoftOfficeHub_18.1903.1152.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.MicrosoftSolitaireCollection_4.4.8204.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.MicrosoftStickyNotes_3.6.73.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.MixedReality.Portal_2000.19081.1301.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.Office.OneNote_16001.12026.20112.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.SkypeApp_14.53.77.0_neutral_~_kzf8qxf38zg5c",
+    "Microsoft.WindowsFeedbackHub_2019.1111.2029.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.WindowsMaps_2019.716.2316.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.XboxApp_48.49.31001.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.XboxGameOverlay_1.46.11001.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.XboxGamingOverlay_2.34.28001.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.XboxSpeechToTextOverlay_1.17.29001.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.YourPhone_2019.430.2026.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.ZuneMusic_2019.19071.19011.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.ZuneVideo_2019.19071.19011.0_neutral_~_8wekyb3d8bbwe",
+    "microsoft.windowscommunicationsapps_16005.11629.20316.0_neutral_~_8wekyb3d8bbwe"
+  ],
+  "added_application_records": [
+    "Microsoft.Advertising.Xaml_10.1808.3.0_x64__8wekyb3d8bbwe",
+    "Microsoft.NET.Native.Framework.1.7_1.7.25531.0_x64__8wekyb3d8bbwe",
+    "Microsoft.NET.Native.Framework.2.2_2.2.27405.0_x64__8wekyb3d8bbwe",
+    "Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x64__8wekyb3d8bbwe",
+    "Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe",
+    "Microsoft.Services.Store.Engagement_10.0.18101.0_x64__8wekyb3d8bbwe",
+    "Microsoft.Services.Store.Engagement_10.0.18101.0_x86__8wekyb3d8bbwe",
+    "Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe",
+    "Microsoft.VCLibs.140.00.UWPDesktop_14.0.27629.0_x64__8wekyb3d8bbwe"
+  ],
+  "unexpected_removed_applications": [],
+  "hyperv_package_registration_preserved": true,
+  "fresh_install_test": "pending user installation",
+  "store_online_test": "pending user installation",
+  "appx_note": "Preservation is checked against the clean 22H2 WIM. Online Store functionality requires a fresh installation test.",
+  "processed_wim_sha256": "745f315be4ae091b5555e62afb5e1fc593b1bf91c56feea32ea3dab3e8623576"
+}

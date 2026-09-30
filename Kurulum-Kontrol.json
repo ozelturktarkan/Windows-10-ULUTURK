@@ -1,0 +1,223 @@
+{
+  "time": "2026-10-01T02:04:49.993117+03:00",
+  "method": "Read-only inspection of powered-off VDI; no guest or host settings changed",
+  "user_report": "User tested applications and reports no apparent problem; user shut down VM",
+  "live_application_launch_tests": "Not repeated by assistant",
+  "vm_poweroff": true,
+  "vm_ram_mib": 4096,
+  "vm_vcpus": 1,
+  "audio_output_enabled": true,
+  "installed_os": {
+    "CurrentBuildNumber": "19045",
+    "UBR": 2965,
+    "EditionID": "Professional",
+    "DisplayVersion": "22H2"
+  },
+  "profile": {
+    "ProfileId": "ULUTURK-22H2-x64-r1",
+    "DisplayName": "Windows 10 ULUTÜRK",
+    "MachineComplete": 1
+  },
+  "retained_app_registration": {
+    "Microsoft.WindowsStore": true,
+    "Microsoft.StorePurchaseApp": true,
+    "Microsoft.WindowsCalculator": true,
+    "Microsoft.Windows.Photos": true,
+    "Microsoft.WindowsSoundRecorder": true,
+    "Microsoft.DesktopAppInstaller": true
+  },
+  "service_start_values": {
+    "Audiosrv": 2,
+    "AudioEndpointBuilder": 2,
+    "WSearch": 2,
+    "AppXSvc": 3,
+    "ClipSVC": 3,
+    "wuauserv": 3,
+    "BITS": 2,
+    "MpsSvc": 2
+  },
+  "windows_setup_state": {
+    "SystemSetupInProgress": 0,
+    "OOBEInProgress": 0,
+    "SetupPhase": 0
+  },
+  "installed_payload_hash_matches": {
+    "Windows/Cursors/ULUTURK/turk.ani": true,
+    "Windows/Resources/Themes/ULUTURK.theme": true,
+    "Windows/Setup/ULUTURK/Apply-Machine.ps1": true,
+    "Windows/Setup/ULUTURK/Dock-Control.ps1": true,
+    "Windows/Setup/ULUTURK/Initialize-User.ps1": true,
+    "Windows/Setup/ULUTURK/Set-VisualEffects.ps1": true,
+    "Windows/Web/Wallpaper/ULUTURK/ULUTURK.jpg": true,
+    "ProgramData/ULUTURK/Dock/MyDock/calfont.ttf": true,
+    "ProgramData/ULUTURK/Dock/MyDock/Dock.exe": true,
+    "ProgramData/ULUTURK/Dock/MyDock/Dockmod.exe": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dockmod32.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dockmod64.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dockmod64.exe": true,
+    "ProgramData/ULUTURK/Dock/MyDock/Dock_64.exe": true,
+    "ProgramData/ULUTURK/Dock/MyDock/MyDock.exe": true,
+    "ProgramData/ULUTURK/Dock/MyDock/OpenHardwareMonitorLib.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/pingfang0.ttf": true,
+    "ProgramData/ULUTURK/Dock/MyDock/trayico.exe": true,
+    "ProgramData/ULUTURK/Dock/Runtimes/VC_2015-2022.x64.exe": true,
+    "ProgramData/ULUTURK/Dock/Runtimes/VC_2015-2022.x64.exe.sha256": true,
+    "ProgramData/ULUTURK/Dock/Runtimes/VC_2015-2022.x86.exe": true,
+    "ProgramData/ULUTURK/Dock/Runtimes/VC_2015-2022.x86.exe.sha256": true,
+    "ProgramData/ULUTURK/Dock/MyDock/lang/Chinese.ini": true,
+    "ProgramData/ULUTURK/Dock/MyDock/lang/English.ini": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/00.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/00n.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/01.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/01n.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/02.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/03.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/03n.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/04.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/05.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/06.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/07.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/08.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/09.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/10.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/11.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/12.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/13.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/13n.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/14.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/15.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/16.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/17.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/18.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/19.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/20.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/21.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/22.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/23.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/24.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/25.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/26.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/27.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/28.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/29.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/30.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/301.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/302.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/31.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/32.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/33.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/49.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/53.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/54.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/55.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/56.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/57.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/weather/58.png": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x64/concrt140_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x64/Microsoft.Graphics.Canvas.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x64/msvcp140_1_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x64/msvcp140_2_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x64/msvcp140_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x64/vcamp140_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x64/vccorlib140_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x64/vcomp140_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x64/vcruntime140_1_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x64/vcruntime140_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x86/concrt140_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x86/Microsoft.Graphics.Canvas.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x86/msvcp140_1_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x86/msvcp140_2_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x86/msvcp140_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x86/vcamp140_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x86/vccorlib140_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x86/vcomp140_app.dll": true,
+    "ProgramData/ULUTURK/Dock/MyDock/dll/x86/vcruntime140_app.dll": true
+  },
+  "machine_log_complete": true,
+  "runtime_installation": [
+    {
+      "Accepted": true,
+      "ExitCode": 0,
+      "Architecture": "x64"
+    },
+    {
+      "Accepted": true,
+      "ExitCode": 0,
+      "Architecture": "x86"
+    }
+  ],
+  "user_checks": [
+    {
+      "visual_revision": "r1",
+      "visual_passed": true,
+      "visual_checks": {
+        "TooltipAnimation": true,
+        "TooltipFade": true,
+        "ComboBoxAnimation": true,
+        "ClientAreaAnimation": true,
+        "CursorShadow": true,
+        "ListBoxSmoothScrolling": true,
+        "SelectionFade": true,
+        "MenuAnimation": true,
+        "MenuFade": true,
+        "DropShadow": true,
+        "FontSmoothing": true,
+        "FontSmoothingType": true,
+        "DragFullWindows": true,
+        "MinAnimation": true,
+        "VisualFXSetting": true,
+        "TaskbarAnimations": true,
+        "ListviewShadow": true,
+        "ListviewAlphaSelect": true,
+        "IconsOnly": true,
+        "AlwaysHibernateThumbnails": true,
+        "EnableAeroPeek": true,
+        "EnableTransparency": true
+      },
+      "first_logon_complete": true,
+      "first_logon_initialized": true,
+      "dock_enabled": 1,
+      "dock_startup_registered": true,
+      "dock_taskbar_auto_hide_recorded": true,
+      "dock_error_log_present": false,
+      "dock_executable_matches_packaged": true,
+      "installed_language_hashes": {
+        "English.ini": "34fc6ea1453072188dd4bdce9fb59d0c299fba8a9e7bed3609e3790953dbe880",
+        "Chinese.ini": "b6cb4f365d49c456599b57d3c5f0aa568208a9934c14950a4f411f90571d2c49",
+        "Turkish.ini": "0cad883eb71ff4e980a9e3c3c6504b5c77701edc495a3f77cb6333f90a8a1d29"
+      },
+      "wallpaper_stretch": true
+    }
+  ],
+  "setup_error_log_summary": {
+    "Windows/Panther/setuperr.log": {
+      "nonempty_lines": 2,
+      "custom_script_failure_lines": []
+    },
+    "Windows/Panther/UnattendGC/setuperr.log": {
+      "nonempty_lines": 1,
+      "custom_script_failure_lines": []
+    }
+  },
+  "passed": true,
+  "setup_log_notes": [
+    {
+      "component": "IBS",
+      "code": "0x00000490",
+      "event": "MultiEdition blackboard key removal failed"
+    },
+    {
+      "component": "CBS",
+      "code": "0x80070002",
+      "event": "Failed to load a servicing session"
+    },
+    {
+      "component": "msoobe LocalUser Plugin",
+      "code": "0x80070490",
+      "event": "COMMIT failed"
+    }
+  ],
+  "setup_log_assessment": "These entries did not prevent desktop access or successful machine/first-logon scripts. Root causes were not established; setup logs are not claimed to be error-free.",
+  "tested_iso_sha256": "40eec525fbfdfe964a8786b2d2f0701cb7380f02107edaeb6e094815e7ee81cb",
+  "final_iso_scope": "r1 installation checked read-only; final ISO differs in three dock language files. Final ISO has not undergone a second Windows installation."
+}

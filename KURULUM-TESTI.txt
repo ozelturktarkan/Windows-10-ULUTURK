@@ -1,0 +1,10 @@
+ULUTÜRK r1 — kısa kurulum kontrolü
+
+1. Hazırlanan Win10-ULUTURK sanal makinesindeki Windows kurulumunu tamamlayın. VM: 4 GB RAM, 1 sanal işlemci, 40 GB dinamik disk. Gerçek bilgisayar diski veya paylaşılan klasör bağlanmadı.
+2. İlk masaüstünde ERTÜRK ile ortak arka planı ve Türk bayrağı imlecini kontrol edin. Dock ilk açılışı birkaç saniye sürebilir.
+3. Dock görünüyor mu, bir uygulamayı açabiliyor mu? Windows görev çubuğu otomatik gizleniyor mu? Win tuşuyla Başlat hâlâ erişilebilir.
+4. Sorun olursa masaüstündeki "Dock kapat - Windows cubugunu goster" kısayolunu kullanın. Dock ve otomatik başlangıcı kapanır, Windows görev çubuğu geri gelir. Başlat > ULUTURK > Dock ac ile tekrar açabilirsiniz.
+5. Mağaza'yı açıp arama/sayfa görüntüleme ve Mağaza uygulamasının güncellemesini deneyin. Açılması, bütün indirme işlevlerinin çalıştığı anlamına gelmez; bir uygulama indirme veya güncelleme sonucunu ayrıca belirtin. Hesap/parola paylaşmayın.
+6. Hesap Makinesi, Fotoğraflar, yerel arama ve ses çıkışını kısaca kontrol edin.
+
+Bu testte yeni Windows kurulumunu kullanıcı yapar. Hata olursa mesajını iletmesi yeterlidir; ISO/NTLite düzeltmesini asistan yapar. Eski MyDock 5.10.1'in varsayılan dili veya görünümü ayrıca ayarlanabilir. Dock'un kendi animasyonları Windows'un dört efektli profilinden ayrıdır.

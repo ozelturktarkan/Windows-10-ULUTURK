@@ -1,0 +1,11 @@
+{
+  "baseline": "ADAY-r1, installed and inspected",
+  "wim_unchanged": true,
+  "changed_overlay_files": [
+    "sources/$OEM$/$1/ProgramData/ULUTURK/Dock/MyDock/lang/Chinese.ini",
+    "sources/$OEM$/$1/ProgramData/ULUTURK/Dock/MyDock/lang/English.ini",
+    "sources/$OEM$/$1/ProgramData/ULUTURK/Dock/MyDock/lang/Turkish.ini"
+  ],
+  "all_other_overlay_hashes_unchanged": true,
+  "scope": "r1 installation checked read-only; final ISO differs in three dock language files. Final ISO has not undergone a second Windows installation."
+}

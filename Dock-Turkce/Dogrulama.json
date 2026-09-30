@@ -1,0 +1,264 @@
+{
+  "dock_version": "5.10.1.0",
+  "source_archive_sha256": "eb371f1813d7830b6331b806187d6076c5a99a3809b09b6392813d13db1e6f0c",
+  "original_turkish_sha256": "5cb230c4dd6f99d05bd8ff3bf190b3bcd65c451ecf1652a2e052094986cf414f",
+  "english_template_sha256": "a838d48633ce26b6e60fa0547d998a3a8e17c9463f86ac34e0f8a506730d869d",
+  "completed_turkish_sha256": "62b1405394dd6fe65dc5f67f174f9a9b58e9a66b1a675a08260af5a313afc574",
+  "original_entries_preserved": 769,
+  "added_entries": 46,
+  "completed_entries": 815,
+  "required_entries": 422,
+  "covered_required_entries": 422,
+  "missing_required_entries": 0,
+  "duplicate_entries": 0,
+  "windows_ini_read_checks_passed": 2445,
+  "encoding": "UTF-16 LE BOM; CRLF",
+  "dlls_imported_from_translation_archive": false,
+  "runtime_language_selection_test": "English/Chinese aliases pending user test",
+  "iso_integration": "Included in published r2 ISO hash recorded in SURUM.json; ISO download pending",
+  "added_translations": [
+    {
+      "section": "tips",
+      "key": "UACtips",
+      "text": "dockmod eklenerek UAC isteminin atlanmasını istiyor musunuz? Sonrasında Kullanıcı Hesabı Denetimi onay penceresi gösterilmez."
+    },
+    {
+      "section": "tips",
+      "key": "firsttip",
+      "text": "Bu yazılım ücretsizdir. Ticari amaçlarla kullanılması kesinlikle yasaktır. Oluşabilecek zararlardan sorumluluk kabul etmiyorum."
+    },
+    {
+      "section": "tips",
+      "key": "dwmerror",
+      "text": "Masaüstü Pencere Yöneticisi (DWM) hizmetinin çalışmadığı algılandı. Program düzgün çalışamıyor!"
+    },
+    {
+      "section": "iconame",
+      "key": "finder",
+      "text": "Dosya Gezgini"
+    },
+    {
+      "section": "iconame",
+      "key": "addtopad",
+      "text": "Launchpad'e ekle"
+    },
+    {
+      "section": "iconame",
+      "key": "iconisfull",
+      "text": "Bu sayfaya daha fazla simge eklenemez."
+    },
+    {
+      "section": "systemicon",
+      "key": "cortana",
+      "text": "Cortana"
+    },
+    {
+      "section": "systemicon",
+      "key": "mydocument",
+      "text": "Belgelerim"
+    },
+    {
+      "section": "systemicon",
+      "key": "errortips",
+      "text": "Bu simge zaten eklenmiş!"
+    },
+    {
+      "section": "editicontips",
+      "key": "systemduplicate",
+      "text": "Bu simge zaten eklenmiş!"
+    },
+    {
+      "section": "settingUI",
+      "key": "MyDockerror",
+      "text": "Lütfen MyDock'ı açın."
+    },
+    {
+      "section": "settingUI",
+      "key": "MyFindererror",
+      "text": "Lütfen MyFinder'ı açın."
+    },
+    {
+      "section": "settingUI",
+      "key": "DirectDXFPS",
+      "text": "DirectDX çizim yenileme hızını seçin"
+    },
+    {
+      "section": "settingUI",
+      "key": "defaultfont",
+      "text": "Varsayılan yazı tipi"
+    },
+    {
+      "section": "settingUI",
+      "key": "gpurendicon",
+      "text": "Dock simgelerini çizmek için GPU birleştirmesini kullan"
+    },
+    {
+      "section": "settingUI",
+      "key": "useMipMap",
+      "text": "Dokular için MipMap oluştur"
+    },
+    {
+      "section": "settingUI",
+      "key": "GDIscreenshot",
+      "text": "Küçültme animasyonu için GDI ile ekran görüntüsü al"
+    },
+    {
+      "section": "settingUI",
+      "key": "screencapturetype",
+      "text": "Ekran görüntüsü alma yöntemleri"
+    },
+    {
+      "section": "settingUI",
+      "key": "DirectX",
+      "text": "DirectX sürümünü seçin"
+    },
+    {
+      "section": "settingUI",
+      "key": "SamplerState",
+      "text": "Küçültme animasyonunda doku filtreleme yöntemi (DX11 ve üzeri için LINEAR önerilir)"
+    },
+    {
+      "section": "settingUI",
+      "key": "showwifi",
+      "text": "Finder'da Wi-Fi simgesini göster"
+    },
+    {
+      "section": "settingUI",
+      "key": "media_mac",
+      "text": "Mac"
+    },
+    {
+      "section": "settingUI",
+      "key": "media_ios",
+      "text": "iOS"
+    },
+    {
+      "section": "settingUI",
+      "key": "theme",
+      "text": "Tema"
+    },
+    {
+      "section": "settingUI",
+      "key": "contribute",
+      "text": "Bağış yap"
+    },
+    {
+      "section": "settingUI",
+      "key": "netdisk",
+      "text": "Web sitesini ziyaret et"
+    },
+    {
+      "section": "settingUI",
+      "key": "update",
+      "text": "Güncellemeleri denetle"
+    },
+    {
+      "section": "settingtips",
+      "key": "gpurendtip",
+      "text": "Bu seçeneği etkinleştirmek bilgisayarın çökmesine neden olabilir. Lütfen Dock'tan çıkmayın. Seçenek bu oturumda geçici olarak etkinleştirilir; Dock'tan çıkıldığında ayar kaydedilir. Bilgisayar bir süre sonra çökerse GPU ile birleştirme sonraki açılışta otomatik olarak devre dışı bırakılır."
+    },
+    {
+      "section": "settingtips",
+      "key": "updateerror2",
+      "text": "Çevrimiçi güncelleme başarısız oldu. İndirme sayfasını açmak istiyor musunuz?"
+    },
+    {
+      "section": "settingtips",
+      "key": "updateerror3",
+      "text": "Güncelleme birkaç denemeden sonra başarısız oldu. Lütfen güncelleme paketini çevrimiçi depolama bağlantısından indirin!"
+    },
+    {
+      "section": "settingtips",
+      "key": "uninstalltip",
+      "text": "Bu programı sistemden kaldırmak istiyor musunuz?"
+    },
+    {
+      "section": "settingtips",
+      "key": "fontrestart",
+      "text": "Bazı arayüz değişikliklerinin uygulanması için programı yeniden başlatmanız gerekiyor."
+    },
+    {
+      "section": "settingtips",
+      "key": "uninstallcomplete",
+      "text": "Kaldırma tamamlandıktan sonra silinmemiş dosyaları elle silin."
+    },
+    {
+      "section": "settingtips",
+      "key": "DPIerrortip",
+      "text": "Seçilen ölçeklendirme oranı sistemin ölçeklendirme oranından yüksek. Arayüz çok büyük görünebilir!"
+    },
+    {
+      "section": "menu",
+      "key": "timeMickey",
+      "text": "Mickey"
+    },
+    {
+      "section": "promptwindow",
+      "key": "apperror",
+      "text": "Program dosyaları bozuk. Lütfen programı yeniden indirin!"
+    },
+    {
+      "section": "findertitle",
+      "key": "file",
+      "text": "Dosya"
+    },
+    {
+      "section": "findertitle",
+      "key": "Edit",
+      "text": "Düzenle"
+    },
+    {
+      "section": "findertitle",
+      "key": "Show",
+      "text": "Görünüm"
+    },
+    {
+      "section": "findertitle",
+      "key": "Go to",
+      "text": "Git"
+    },
+    {
+      "section": "findertitle",
+      "key": "windows",
+      "text": "Pencereler"
+    },
+    {
+      "section": "findertitle",
+      "key": "Help",
+      "text": "Yardım"
+    },
+    {
+      "section": "shutdown",
+      "key": "ok",
+      "text": "Tamam"
+    },
+    {
+      "section": "shutdown",
+      "key": "cancel",
+      "text": "İptal"
+    },
+    {
+      "section": "settingtips",
+      "key": "fonttip",
+      "text": "Yazı tipi değişikliği, program yeniden başlatıldıktan sonra uygulanır!"
+    },
+    {
+      "section": "settingtips",
+      "key": "updateerror4",
+      "text": "Ağ bağlantısı şu anda düzgün çalışmıyor. Güncelleme notlarını almak için güncellemeleri yeniden denetleyin."
+    }
+  ],
+  "language_file_names": {
+    "Turkish.ini": "Türkçe",
+    "English.ini": "English",
+    "Chinese.ini": "简体中文"
+  },
+  "language_file_hashes": {
+    "Turkish.ini": "62b1405394dd6fe65dc5f67f174f9a9b58e9a66b1a675a08260af5a313afc574",
+    "English.ini": "5a54dd22f3997a7ed73647f6e08ae070695b5b64677018c9896f10163e9a7b1b",
+    "Chinese.ini": "d3efbd220712f5227d530473dc2ede41c1986f02a4b2d7b007177676c2a1b94e"
+  },
+  "non_name_values_identical_in_all_files": true,
+  "source_turkish_runtime_test": "User confirmed working before language aliases were added",
+  "final_iso_sha256": "069cd731adf5285feb50b4a8bd6d4801d855960324e171d6f94ff2b6b4fa45d8"
+}

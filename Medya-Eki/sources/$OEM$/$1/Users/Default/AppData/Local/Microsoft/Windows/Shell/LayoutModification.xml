@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:LayoutModificationTemplate xmlns:ns0="http://schemas.microsoft.com/Start/2014/LayoutModification" xmlns:ns1="http://schemas.microsoft.com/Start/2014/FullDefaultLayout" xmlns:ns2="http://schemas.microsoft.com/Start/2014/StartLayout" Version="1">
+  <ns0:LayoutOptions StartTileGroupCellWidth="6" />
+  <ns0:DefaultLayoutOverride><ns0:StartLayoutCollection><ns1:StartLayout GroupCellWidth="6">
+    <ns2:Group Name="ULUTÜRK"><ns2:Tile Size="2x2" Column="0" Row="0" AppUserModelID="Microsoft.WindowsStore_8wekyb3d8bbwe!App" /><ns2:Tile Size="2x2" Column="2" Row="0" AppUserModelID="Microsoft.WindowsCalculator_8wekyb3d8bbwe!App" /><ns2:Tile Size="2x2" Column="4" Row="0" AppUserModelID="Microsoft.Windows.Photos_8wekyb3d8bbwe!App" /></ns2:Group>
+  </ns1:StartLayout></ns0:StartLayoutCollection></ns0:DefaultLayoutOverride>
+</ns0:LayoutModificationTemplate>

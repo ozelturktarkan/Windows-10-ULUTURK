@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-01",
+  "scope": "Full local source ISO bytes hashed; Microsoft reference and Archive metadata compared separately; embedded WIM hashed without extraction. No malware scan or final custom ISO security certification.",
+  "algorithms": [
+    "SHA256",
+    "SHA1",
+    "MD5"
+  ],
+  "files": [
+    {
+      "project": "ULUTÜRK",
+      "local_file": {
+        "filename": "Win10_22H2_Turkish_x64v1.iso",
+        "bytes": 5765529600,
+        "computed_at": "2026-10-01T02:27:54.582359+03:00",
+        "sha256": "f66ad547fb42f9d37dc8e86214e1e326e515aa20843f734c7f8f947e967bee53",
+        "sha1": "7ee135543dda5b30e77b489fe541e75a3ee02ac6",
+        "md5": "43cca3dd6eb05cac2cbfa2bea494e7de"
+      },
+      "sha256_crosscheck": "Windows PowerShell Get-FileHash matched independent streaming calculation",
+      "microsoft_reference": {
+        "status": "verified_sha256",
+        "source_url": "https://www.microsoft.com/tr-tr/software-download/windows10ISO/",
+        "algorithm": "SHA256",
+        "expected": "f66ad547fb42f9d37dc8e86214e1e326e515aa20843f734c7f8f947e967bee53",
+        "match": true,
+        "reference_label": "Windows 10 2023 Update / 22H2 / Turkish 64-bit",
+        "checked_date": "2026-10-01"
+      },
+      "owner_provided_archive": {
+        "url": "https://archive.org/details/windows-10-2022-update-turkish-x64",
+        "metadata_url": "https://archive.org/metadata/windows-10-2022-update-turkish-x64",
+        "filename": "Win10_22H2_Turkish_x64.iso",
+        "bytes": 4553572352,
+        "sha1": "e5e95058681181ba0ee7607cc89225297f4fe724",
+        "md5": "90a3b443eafaf569cb03710120cfae62",
+        "match": false,
+        "comparison_scope": "Published Archive metadata only; Archive ISO not downloaded again"
+      },
+      "embedded_wim": {
+        "filename": "Win10_22H2_Turkish_x64v1.iso",
+        "embedded_path": "sources/install.wim",
+        "bytes": 4804079948,
+        "sha256": "e6ffc9f6908956a5572fade7b13d4a70b123449b5cf042a301b6fe86d69dd8b0",
+        "production_source_wim_sha256": "e6ffc9f6908956a5572fade7b13d4a70b123449b5cf042a301b6fe86d69dd8b0",
+        "matches_production_source": true
+      }
+    },
+    {
+      "project": "ERTÜRK",
+      "local_file": {
+        "filename": "Win10_1909_Turkish_x64.iso",
+        "bytes": 5239048192,
+        "computed_at": "2026-10-01T02:28:17.806609+03:00",
+        "sha256": "957ca7887c596027762a395be12699ce541b38c6de990435fdd607849803e0aa",
+        "sha1": "7b7afabcf751855c0b5aab40106ade9a98242e5f",
+        "md5": "8155a8cf62ee3a62f0e4328792781949"
+      },
+      "sha256_crosscheck": "Windows PowerShell Get-FileHash matched independent streaming calculation",
+      "microsoft_reference": {
+        "status": "not_verified_reference_not_located",
+        "source_url": null,
+        "algorithm": null,
+        "expected": null,
+        "match": null,
+        "reference_label": null,
+        "checked_date": "2026-10-01",
+        "limitation": "A public Microsoft hash reference for this exact Turkish x64 1909 ISO was not located. Archive equality is not independent Microsoft authentication."
+      },
+      "owner_provided_archive": {
+        "url": "https://archive.org/details/win-10-1909-turkish-x-64",
+        "metadata_url": "https://archive.org/metadata/win-10-1909-turkish-x-64",
+        "filename": "Win10_1909_Turkish_x64.iso",
+        "bytes": 5239048192,
+        "sha1": "7b7afabcf751855c0b5aab40106ade9a98242e5f",
+        "md5": "8155a8cf62ee3a62f0e4328792781949",
+        "match": true,
+        "comparison_scope": "Published Archive metadata only; Archive ISO not downloaded again"
+      },
+      "embedded_wim": {
+        "filename": "Win10_1909_Turkish_x64.iso",
+        "embedded_path": "sources/install.wim",
+        "bytes": 4390834000,
+        "sha256": "d100034418028a3d6ddd01aacfd90fe5a1ae1253381b53062b8557ea7f13a1e9",
+        "production_source_wim_sha256": "d100034418028a3d6ddd01aacfd90fe5a1ae1253381b53062b8557ea7f13a1e9",
+        "matches_production_source": true
+      }
+    }
+  ]
+}

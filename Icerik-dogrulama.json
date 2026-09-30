@@ -1,0 +1,15 @@
+{
+  "iso_wim_hash_matches_prepared_wim": true,
+  "single_pro_x64": true,
+  "store_packages_preserved": true,
+  "wim_bytes": 4137635215,
+  "bios_boot_entry": true,
+  "x64_efi_boot_entry": true,
+  "netfx3_source_present": true,
+  "production_answer_no_accounts_or_disk_wipe": true,
+  "only_public_pro_setup_key": true,
+  "product_key_ui": "Always",
+  "amd64_answer_components": true,
+  "fresh_install_test": "pending user installation",
+  "store_online_test": "pending user installation"
+}

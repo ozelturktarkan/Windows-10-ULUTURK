@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<unattend xmlns="urn:schemas-microsoft-com:unattend" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State">
+  <settings pass="windowsPE">
+    <component name="Microsoft-Windows-International-Core-WinPE" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+      <SetupUILanguage>
+        <UILanguage>tr-TR</UILanguage>
+      </SetupUILanguage>
+      <InputLocale>041f:0000041f</InputLocale>
+      <SystemLocale>tr-TR</SystemLocale>
+      <UILanguage>tr-TR</UILanguage>
+      <UserLocale>tr-TR</UserLocale>
+    </component>
+    <component name="Microsoft-Windows-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+      <UserData>
+        <ProductKey>
+          <Key>VK7JG-NPHTM-C97JM-9MPGT-3V66T</Key>
+          <WillShowUI>Always</WillShowUI>
+        </ProductKey>
+      </UserData>
+    </component>
+  </settings>
+  <settings pass="specialize">
+    <component name="Microsoft-Windows-Deployment" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+      <RunSynchronous>
+        <RunSynchronousCommand wcm:action="add">
+          <Order>1</Order>
+          <Description>ULUTURK varsayilanlarini hazirla</Description>
+          <Path>"%WINDIR%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -NonInteractive -ExecutionPolicy Bypass -File "%WINDIR%\Setup\ULUTURK\Apply-Machine.ps1"</Path>
+          <WillReboot>Never</WillReboot>
+        </RunSynchronousCommand>
+      </RunSynchronous>
+    </component>
+  </settings>
+  <settings pass="oobeSystem">
+    <component name="Microsoft-Windows-International-Core" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+      <InputLocale>041f:0000041f</InputLocale>
+      <SystemLocale>tr-TR</SystemLocale>
+      <UILanguage>tr-TR</UILanguage>
+      <UserLocale>tr-TR</UserLocale>
+    </component>
+  </settings>
+</unattend>

@@ -1,0 +1,34 @@
+{
+  "revision": "2026-09-30-four-effects",
+  "applies_to": [
+    "ERTURK",
+    "ULUTURK"
+  ],
+  "enabled": [
+    "FontSmoothing",
+    "ListviewShadow",
+    "SelectionFade",
+    "DropShadow"
+  ],
+  "disabled": [
+    "TooltipAnimation",
+    "TooltipFade",
+    "ComboBoxAnimation",
+    "ClientAreaAnimation",
+    "CursorShadow",
+    "AlwaysHibernateThumbnails",
+    "TaskbarAnimations",
+    "ListBoxSmoothScrolling",
+    "MenuAnimation",
+    "MenuFade",
+    "EnableAeroPeek",
+    "MinAnimation",
+    "Thumbnails",
+    "DragFullWindows",
+    "ListviewAlphaSelect",
+    "EnableTransparency"
+  ],
+  "font_smoothing_type": "ClearType",
+  "reference": "Ekran görüntüsü 2026-09-30 214517.png",
+  "applied_to_running_guest": false
+}
