@@ -1,0 +1,13 @@
+{
+  "checked_at": "2026-10-01T02:49:20.114416+03:00",
+  "item_url": "https://archive.org/details/windows-10-uluturk",
+  "metadata_url": "https://archive.org/metadata/windows-10-uluturk",
+  "status": "uploading_user_reported",
+  "user_report": "Project owner says ISO upload is in progress.",
+  "iso_files_observed": 0,
+  "download_available_verified": false,
+  "archive_hashes_verified": false,
+  "expected_filename": "Windows 10 ULUTÜRK.iso",
+  "expected_bytes": 5161299968,
+  "expected_sha256": "069cd731adf5285feb50b4a8bd6d4801d855960324e171d6f94ff2b6b4fa45d8"
+}

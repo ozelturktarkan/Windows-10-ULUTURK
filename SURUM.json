@@ -14,11 +14,13 @@
   "dock": "startup/runtime installation verified; all three language files now Turkish with original language names",
   "taskbar": "auto-hide on dock startup; disable shortcut restores Windows taskbar",
   "installation_test": "r1 installation checked read-only; final ISO differs in three dock language files. Final ISO has not undergone a second Windows installation.",
-  "distribution_status": "Small sources published; ISO download pending",
+  "distribution_status": "Small sources published; ISO uploading",
   "repository": "https://github.com/ozelturktarkan/Windows-10-ULUTURK",
   "release_tag": "v1.0-r2",
   "date": "2026-10-01",
-  "archive_url": null,
-  "iso_download_status": "Awaiting project owner upload; full ISO is not hosted on GitHub",
-  "bit_identical_rebuild_verified": false
+  "archive_url": "https://archive.org/details/windows-10-uluturk",
+  "iso_download_status": "Uploading per project owner; ISO not yet listed in Archive metadata when checked.",
+  "bit_identical_rebuild_verified": false,
+  "iso_download_url": null,
+  "archive_verification": "Archive-Durumu.json"
 }

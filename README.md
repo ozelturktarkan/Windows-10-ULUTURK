@@ -6,7 +6,7 @@
 
 ## İndirmeler
 
-**Son ULUTÜRK ISO'sunun Archive bağlantısı bekleniyor.** Büyük dosyayı proje sahibi yükleyecek. Bu repodaki ve [sürüm sayfasındaki](https://github.com/ozelturktarkan/Windows-10-ULUTURK/releases/tag/v1.0-r2) kaynak ZIP dosyaları Windows kurulum ISO'su değildir.
+**[Windows 10 ULUTÜRK — Archive](https://archive.org/details/windows-10-uluturk): yükleniyor.** Proje sahibi yüklemeyi sürdürüyor; kontrol sırasında ISO henüz Archive dosya listesinde görünmüyordu. Tamamlanmış indirme veya hash doğrulaması olarak sunulmaz. [Durum kaydı](Archive-Durumu.json). Bu repodaki ve [sürüm sayfasındaki](https://github.com/ozelturktarkan/Windows-10-ULUTURK/releases/tag/v1.0-r2) kaynak ZIP dosyaları Windows kurulum ISO'su değildir.
 
 - [Windows 10 22H2 resmî Microsoft indirme ve SHA-256 tablosu](https://www.microsoft.com/tr-tr/software-download/windows10ISO/) — üretimdeki `x64v1` dosyası bu tabloyla eşleşti.
 - [ERTÜRK için Windows 10 1909 Türkçe x64 ISO kaynağı](https://archive.org/details/win-10-1909-turkish-x-64)
