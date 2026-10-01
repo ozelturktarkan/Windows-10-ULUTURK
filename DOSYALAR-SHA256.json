@@ -1,7 +1,7 @@
 {
   ".gitattributes": "e58abe82c14d6014c5a104432580f3bdcd843eee7d312f131c2a8c44dddf253e",
   ".gitignore": "378593a1cfacd04cc4897bd4735d6d20de21391aa9978e55b07165f08df6c7d8",
-  "Archive-Durumu.json": "721a7de905dc0f0bff8723a922479de504f6877cd64d063363fee4b25fdc7236",
+  "Archive-Durumu.json": "800f18010c0442bfdf559a60fb089df3882ce584dcbbc3d8394755473e5c562d",
   "assets/README.md": "1093ec08d1a552867e0c96d15841cdbc4a6b60cdd519931917c64c5033a4f84e",
   "assets/turk.ani": "34e5d1e321acc0d32ca481123c30cfbc32d1702a7c0eeb39069ffefbf69e0c27",
   "assets/ULUTURK.jpg": "cb5805d794eeb4c0cec6d81e723133b2a19c0c7732b950c2c0588ec6ddde958b",
@@ -38,7 +38,7 @@
   "NTLite-ULUTURK-Uygulanan.xml": "fee8030d651b1fe88a7dad8f34b767f5fdc1bdd8543db3917ccd9084e3992bdd",
   "NTLite-ULUTURK.xml": "2c28594ebfb442544d845abe05e7e4fce32e6cef2088bf543076d0106012f768",
   "Onceki-Surum-Farki.json": "4602e01667d627ebacdaf3e1913d26594342a58509a51d4834906911cecbeebc",
-  "README.md": "f11ebaf036159a30dcb64ef7d298c934b6741b2296fec1548e0f067415b77b68",
+  "README.md": "b13186596aaea8926c665942732bdf70bd21b9a957d4dd2df8785df0dc3adafe",
   "requirements.txt": "f7a4196ee7b6c0cc63fe7301ec9957acef4d84c6d75a1c83d463c74afbee4bca",
   "SURUM.json": "7043ac106ca92029c4ef65a452b51e9d027def7b7306b43d5c2a3a063509c845",
   "tools/Build-ISO.py": "c68738d2e82d29f960cb52e4ede76e10dc29fd8f609abc9a22dfc7ff5be2ff3e",

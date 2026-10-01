@@ -1,12 +1,14 @@
 # Windows 10 ULUTÜRK
 
+> **Tüm diziyi keşfedin:** Windows 10 ve Windows 11 profillerini, donanım hedeflerini ve yayın durumlarını birlikte görmek için [Windows 10/11 HAKANLAR Dizesi ana reposunu ziyaret edin](https://github.com/ozelturktarkan/Windows-10-11-HAKANLAR-Dizesi).
+
 **Türkçe Windows 10 Pro 22H2 · x64 · 19045.2965 · r2 Türkçe dock**
 
 [HAKANLAR dizisinin](https://github.com/ozelturktarkan/Windows-10-11-HAKANLAR-Dizesi) 16 GB+ RAM ve SSD hedefli sürümü. Kurulum testi 4 GB RAM ve 1 sanal işlemciyle yapıldı; 16 GB bir proje hedefidir. Microsoft Store korunur; MyDock 5.10.1, Türkçe arayüz ve otomatik gizlenen Windows görev çubuğu ile gelir.
 
 ## İndirmeler
 
-**[Windows 10 ULUTÜRK — Archive](https://archive.org/details/windows-10-uluturk): yükleniyor.** Proje sahibi yüklemeyi sürdürüyor; kontrol sırasında ISO henüz Archive dosya listesinde görünmüyordu. Tamamlanmış indirme veya hash doğrulaması olarak sunulmaz. [Durum kaydı](Archive-Durumu.json). Bu repodaki ve [sürüm sayfasındaki](https://github.com/ozelturktarkan/Windows-10-ULUTURK/releases/tag/v1.0-r2) kaynak ZIP dosyaları Windows kurulum ISO'su değildir.
+**[Windows 10 ULUTÜRK — Archive](https://archive.org/details/windows-10-uluturk): ISO yüklendi.** Proje sahibinin bildirimine göre Archive işlemesi sürüyor. ISO dosyası Archive listesinde görünüyor; **5.161.299.968 bayt boyutu, SHA-1 ve MD5 değerleri** yayımlanan son r2 ISO kaydıyla eşleşti. İşlemenin tamamlandığı ve doğrudan indirme erişimi ayrıca doğrulanmadı; uzak ISO tamamen yeniden indirilip SHA-256 hesaplanmadı. [Durum ve doğrulama kapsamı](Archive-Durumu.json). Bu repodaki ve [sürüm sayfasındaki](https://github.com/ozelturktarkan/Windows-10-ULUTURK/releases/tag/v1.0-r2) kaynak ZIP dosyaları Windows kurulum ISO'su değildir.
 
 - [Windows 10 22H2 resmî Microsoft indirme ve SHA-256 tablosu](https://www.microsoft.com/tr-tr/software-download/windows10ISO/) — üretimdeki `x64v1` dosyası bu tabloyla eşleşti.
 - [ERTÜRK için Windows 10 1909 Türkçe x64 ISO kaynağı](https://archive.org/details/win-10-1909-turkish-x-64)

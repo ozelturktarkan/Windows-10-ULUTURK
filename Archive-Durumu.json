@@ -1,13 +1,23 @@
 {
-  "checked_at": "2026-10-01T02:49:20.114416+03:00",
+  "checked_at": "2026-10-01T04:05:28.8078356+03:00",
   "item_url": "https://archive.org/details/windows-10-uluturk",
   "metadata_url": "https://archive.org/metadata/windows-10-uluturk",
-  "status": "uploading_user_reported",
-  "user_report": "Project owner says ISO upload is in progress.",
-  "iso_files_observed": 0,
+  "status": "uploaded_processing_user_reported",
+  "user_report": "Project owner reports upload completed and Archive processing is in progress.",
+  "iso_files_observed": 1,
   "download_available_verified": false,
   "archive_hashes_verified": false,
   "expected_filename": "Windows 10 ULUTÜRK.iso",
   "expected_bytes": 5161299968,
-  "expected_sha256": "069cd731adf5285feb50b4a8bd6d4801d855960324e171d6f94ff2b6b4fa45d8"
+  "expected_sha256": "069cd731adf5285feb50b4a8bd6d4801d855960324e171d6f94ff2b6b4fa45d8",
+  "archive_processing_completed_verified": false,
+  "metadata_size_md5_sha1_match": true,
+  "full_download_sha256_verified": false,
+  "observed_filename": "Windows 10 ULUTÜRK.iso",
+  "observed_bytes": 5161299968,
+  "observed_sha1": "96735f2b2ed3887797b5bce5cc4df2f80d1e64fc",
+  "observed_md5": "713744c6eb3a1d9af3247c7681ae0839",
+  "expected_sha1": "96735f2b2ed3887797b5bce5cc4df2f80d1e64fc",
+  "expected_md5": "713744c6eb3a1d9af3247c7681ae0839",
+  "verification_note": "Only Archive metadata was retrieved. No full ISO download or HTTP HEAD check. Processing status is user-reported; pending_tasks was null."
 }
